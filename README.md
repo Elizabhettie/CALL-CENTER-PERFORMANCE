@@ -127,11 +127,13 @@ Firstly, it is essential to address the instances of unanswered calls. Investiga
 Secondly, there is an opportunity to enhance resolution processes. While a substantial number of calls were resolved, consider implementing training programs for agents to improve problem-solving skills and streamline resolution processes. This can contribute to higher customer satisfaction and an increased number of successfully resolved issues.
 
 The fluctuation in satisfaction ratings over the months suggests the importance of ongoing monitoring and analysis. Regularly assess customer feedback, identify patterns, and implement measures to maintain or improve satisfaction levels. This may involve targeted improvements in service quality, response times, or communication strategies.
+
 By implementing these recommendations, the call center can work towards providing a more seamless and satisfactory customer experience, addressing specific pain points, and continuously improving performance based on customer needs and feedback.
 
 ## VISUALIZATION
 
 ![FULL CHART 1](https://github.com/Elizabhettie/CALL-CENTER-PERFORMANCE/assets/153202306/fa84b1a5-448c-42a5-8a30-e2b294208b92)
+
 
 
 ![FULL CHART 2](https://github.com/Elizabhettie/CALL-CENTER-PERFORMANCE/assets/153202306/e1e8744e-9afd-4526-8e0a-5408fc4de249)
